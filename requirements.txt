@@ -1,0 +1,4 @@
+distlib==0.3.8
+PySide6==6.6.1
+shiboken6==6.6.1
+shiboken6-generator==6.6.1
